@@ -1,0 +1,7 @@
+baseURL = 'https://dakzek.in/'
+languageCode = 'en-us'
+title = '~dakzekin'
+
+[params]
+author = 'Daniil Kozheikin'
+nick = '~dakzekin'
